@@ -4,6 +4,7 @@ int main()
 {
 	int g = 100;
 	int h = 200;
+	int hh=520;
 
 
 
